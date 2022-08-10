@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <name>git-project Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  
+  <properties>
+	<sonar.host.url>http://43.205.112.87:9000/</sonar.host.url>
+	<sonar.login>760ebb6f81398a6ea6949adf4dc2291347377d3e</sonar.login>
+  </properties>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
