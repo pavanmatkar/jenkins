@@ -7,6 +7,6 @@
   <h1>THIS IS HOW IT WORKS!</h1>
   <h2> this is new line for poll scm testing</h2>
   <h3> this is thrid line to check auto deployment</h3>
-  <h2>MASTER BRANCH CODE</h2>
+  <h2>DEV BRANCH CODE</h2>
 </body>
 </html>
